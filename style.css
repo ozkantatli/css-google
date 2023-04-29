@@ -1,0 +1,28 @@
+*{
+    background-color: antiquewhite;
+}
+
+
+input{
+    margin-top: 300px;
+    margin-left: 33%;
+    width: 50%;
+    height: 50px;
+    font-size: 20px;
+    border-color: rgb(54, 53, 51);
+    border-top-color:rgb(224, 224, 235);
+    border-left-color:rgb(224, 224, 235) ;
+    border-top-left-radius: 50px;
+    border-bottom-left-radius: 50px;
+
+}
+#but1{
+    margin-left: -50px;
+    margin-top: 15px;
+    height: 55px;
+    width: 50px;
+    font-size: 20px;
+}
+#but1:hover{
+    background-color: blue;
+}
