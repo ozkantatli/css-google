@@ -8,7 +8,7 @@ input{
     margin-left: 33%;
     width: 50%;
     height: 50px;
-    text-indent: 15px;
+    text-indent: 15px; /* Soldan 15 pxden sonra yaz*/
     font-size: 20px;
     border-color: rgb(54, 53, 51);
     border-top-color:rgb(236, 236, 242);
